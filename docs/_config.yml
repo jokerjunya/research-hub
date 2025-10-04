@@ -5,7 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 title: Research Hub
 description: "AI調査共有ハブ - ChatGPT/Gemini調査結果をMarkdownで整理・共有"
 baseurl: "/research-hub" # GitHub Pagesのサブディレクトリ
-url: "https://YOUR_ACCOUNT.github.io" # 実際のGitHubアカウント名に置き換えてください
+url: "https://jokerjunya.github.io"
 
 # Theme settings
 color_scheme: light
@@ -26,7 +26,7 @@ collections_dir: docs
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
-    - "https://github.com/YOUR_ACCOUNT/research-hub"
+    - "https://github.com/jokerjunya/research-hub"
 
 # Search settings
 search_enabled: true

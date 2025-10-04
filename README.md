@@ -48,9 +48,9 @@ research-hub/
    - **Save** ボタンをクリック
 4. 数分後、公開URLが表示されます
 
-### 公開URL（設定後に更新）
+### 公開URL
 ```
-https://<YOUR_ACCOUNT>.github.io/research-hub/
+https://jokerjunya.github.io/research-hub/
 ```
 
 ## 🚀 使い方

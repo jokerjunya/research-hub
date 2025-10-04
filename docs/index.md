@@ -12,8 +12,8 @@ permalink: /
 AI調査共有ハブ - ChatGPT/Gemini調査結果をMarkdownで整理・共有するサイトです
 {: .fs-6 .fw-300 }
 
-[GitHub リポジトリを見る](https://github.com/YOUR_ACCOUNT/research-hub){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[テンプレートを使う](https://github.com/YOUR_ACCOUNT/research-hub/blob/main/templates/new_topic_template.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[GitHub リポジトリを見る](https://github.com/jokerjunya/research-hub){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[テンプレートを使う](https://github.com/jokerjunya/research-hub/blob/main/templates/new_topic_template.md){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -58,7 +58,7 @@ GitHub Actionsにより自動的にこのサイトに反映されます（数分
 
 ## テンプレート
 
-新しいテーマを追加する際は、[テンプレート](https://github.com/YOUR_ACCOUNT/research-hub/blob/main/templates/new_topic_template.md)を参考にしてください。
+新しいテーマを追加する際は、[テンプレート](https://github.com/jokerjunya/research-hub/blob/main/templates/new_topic_template.md)を参考にしてください。
 
 ---
 
