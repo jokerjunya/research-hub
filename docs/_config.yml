@@ -1,0 +1,25 @@
+title: Research Hub
+description: AI調査共有ハブ - ChatGPT/Gemini調査結果をMarkdownで整理・共有
+theme: just-the-docs
+
+# GitHub Pages設定
+baseurl: "/research-hub"
+url: "https://jokerjunya.github.io"
+
+# テーマカスタマイズ
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# フッター設定
+footer_content: "Copyright &copy; 2025 Research Hub Team. MIT License."
+
+# ナビゲーション設定
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/jokerjunya/research-hub
+
